@@ -1,4 +1,4 @@
-#Anthony_workshop_energy_cost_estimator
+# Anthony_workshop_energy_cost_estimator
 Workshop Energy Cost & Carbon Estimator
 What it does
 This program calculates the daily and monthly energy consumption (in kWh) and operating costs for various machines in a mechatronics workshop. It uses custom functions to handle user inputs, perform calculations, and format financial figures.
